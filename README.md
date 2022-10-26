@@ -8,7 +8,7 @@
 ## ⚡️About The Project
 This is the rest API receiver project for creating many types of API endpoints.
 This is demo project and so, I don't add any other logic like communication with db, etc. So, you will see hard coded values in service class.
-You can also learn calling that many types of API endpoints from other services in here SampleAPI Caller Service.
+You can also learn calling that many types of API endpoints from other services in here [Sample API Caller Service](https://github.com/mukhamaw-mm/sample-api-caller-service).
 You can learn many types of creating API endpoints in this project like below,
 1. Creating sample request APIs
 2. Creating sample response APIs
